@@ -1,8 +1,8 @@
 aaa
 ttt
 
-aaa
-ttt
+aaa い
+ttt　い
 
 aaa ttt
 aaa
